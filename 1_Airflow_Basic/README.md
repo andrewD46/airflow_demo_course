@@ -1,7 +1,7 @@
 <h1 align="center">Основные понятия</h1>
 
 
-###Основные компоненты Airflow
+### Основные компоненты Airflow
 
 
 <p align="center">
