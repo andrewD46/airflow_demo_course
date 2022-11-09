@@ -16,7 +16,8 @@
 <img src="https://docs.qubole.com/en/latest/_images/AirflowWebServer.png" width="80%"><br>
 <small>Веб-интерфейс Airflow</small></p>
 
-![img.png](img.png)
+<p align="center">
+<img src="img.png" width="80%"><br></p>
 
 - **Scheduler** — главный компонент в Airflow, контролирующий расписание выполнения, обновлением DAGs и запуском Tasks. оркестрирует выполнение DAG-ов, обеспечивая их запуск в нужное время и в нужном порядке.
 
