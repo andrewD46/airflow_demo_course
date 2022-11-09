@@ -1,7 +1,7 @@
 <h1 align="center">Airflow Demo Course</h1>
 
 
-![img_1.png](img.png)
+![img.png](img.png)
 
 ## Введение
 
