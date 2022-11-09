@@ -9,7 +9,8 @@
 Таким образом **Task Group** предоставляет тот же функционал что и **SubGAG**. Но в чем тогда разница?
 
 
-![Alt Text](https://airflow.apache.org/docs/apache-airflow/stable/_images/task_group.gif)
+<p align="center">
+<img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/task_group.gif" width="80%"><br></p>
 
 В отличие от **SubDAG**, группы задач представляют собой исключительно визуальную группировку. Задачи в **TaskGroups** живут в том же исходном **DAG** и учитывают все настройки и конфигурации пула. Однако в интерфейсе пользователя это выглядит удобнее и красивее.
 
