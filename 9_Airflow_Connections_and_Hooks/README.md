@@ -2,7 +2,7 @@
 
 <br>
 
-###Connections
+### Connections
 
 **Airflow** часто используется для извлечения и передачи данных в другие 
 системы, поэтому он имеет **Connection** для 
@@ -38,7 +38,7 @@ from airflow.providers.sqlite.hooks.sqlite import SqliteHook
 sqlite_hook = SqliteHook(sqlite_conn_id='sqlite_conn')
 ```
 
-###Пример простого DAG для записи данных в БД
+### Пример простого DAG для записи данных в БД
 
 ```python
 from airflow import DAG
