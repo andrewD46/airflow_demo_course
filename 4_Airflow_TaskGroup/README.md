@@ -58,7 +58,9 @@ with DAG(
     check >> Label("Errors found") >> describe >> error >> report
 ```
 
-![img_5.png](img_5.png)
+<p align="center">
+<img src="img_5.png" width="80%"><br></p>
+
 
 ### TaskGroup vs SubDAG
 Мы уже разобрались что **TaskGroup** и **SubDAG** имеют один и тот же функционал. Значит нет никакой разницы использовать **TaskGroup** или **SubDAG**?
